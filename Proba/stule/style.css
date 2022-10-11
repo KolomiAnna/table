@@ -1,0 +1,86 @@
+body{font-family: 'Abyssinica SIL', serif;
+background: #E5E5E5;}
+
+
+
+
+
+/*ПОЧАТОК таблиці*/
+table caption{font-size: 22px;
+color: rgb(126, 17, 108);
+text-align: center;}
+
+
+
+
+
+
+
+thead{color: rgb(194, 63, 172);}
+tbody{color: rgb(214, 117, 198);}
+
+table th,
+table td {
+    padding: 10px;
+    border: 1px solid rgb(126, 17, 108);}
+
+.colspan{text-align: center;}
+/*кінець таблиці*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*.Anton{margin-top: 150px; } -  не працює */
+.main{margin-top: 100px;
+ background: #E5E5E5;
+width: 1295px;
+margin: 0 auto;}
+
+
+li{background: red;}
+h3{color: blueviolet; 
+background-color: brown;}
+
+.title{font-size: 40px;
+color: aqua;}
+.time1{color: chartreuse;}
+
+/*body{width:   509px;}/*/
+
+
+body{Weight:700px;}
+
+.aside{background: #1E2939;}
+
+
+/*.projects{ padding-top: 80px;
+    padding-bottom: 80px;
+    padding-left: 80px;
+    padding-right: 80px;} */
+
+/*.projects{margin: 60px;} */
+
+/*.projects{padding: 100
+px;} */
+
+.main{display: flex;
+flex-direction: row-reverse;}
